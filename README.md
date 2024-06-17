@@ -10,30 +10,6 @@ This assignment aims to familiarize you with the tools and configurations necess
 
 #Tasks
 
-
-[Setting Up Your Developer Environment](setting-up-your-developer-environment)
-
-[Table Of Contents](table-of-contents)
-
-[1. Select Your Operating System (OS):](1.-Select-Your-Operating-Sytem)
-
-[2. Install a Text Editor or Integrated Development Environment (IDE) ](2.-Install-a-Text-Editor-or-Integrated-Development-Environment-(IDE))
-
-[3. Set Up Version Control System ](3.-Set-Up-Version-Control-System)
-
-[4. Install Necessary Programming Languages and Runtimes ](4.-Install-Necessary-Programming-Languages-and-Runtimes)
-
-[5. Install Package Managers ](5.-Install-Package-Managers)
-
-[6. Configure a Database (MySQL) ](6.-Configure-a-Database-(MySQL))
-
-[7. Set Up Development Environments and Virtualization (Optional) ](7.-Set-Up-Development-Environments-and-Virtualization-(Optional))
-
-[8. Explore Extensions and Plugins ](8.-Explore-Extensions-and-Plugins)
-
-[9. Document Your Setup ](9.-Document-Your-Setup)
-
-
 1. Select Your Operating System (OS):
    Choose an operating system that best suits your preferences and project requirements. Download and Install Windows 11. https://www.microsoft.com/software-download/windows11 
 
@@ -55,9 +31,23 @@ I followed the installation wizard guided steps license agreement, components an
 
 Access the official website to download <a href="https://code.visualstudio.com/Download">Visual Studio Code Download</a>
 
+![alt text](<../Users/QHAKAZILE/Downloads/Screenshots/VS Code 1.PNG>)
+
 After downloading it appears in the downloads folder.
 
+![alt text](<../Users/QHAKAZILE/Downloads/Screenshots/VS Code 2.PNG>)
+
 Start the installation process following the instructions accepting terms and conditions, choosing the location data then launch visual studio code.
+
+![alt text](<../Users/QHAKAZILE/Downloads/Screenshots/VS Code 3.PNG>)
+
+![alt text](<../Users/QHAKAZILE/Downloads/Screenshots/VS Code 4.PNG>)
+
+![alt text](<../Users/QHAKAZILE/Downloads/Screenshots/VS Code 5.PNG>)
+
+![alt text](<../Users/QHAKAZILE/Downloads/Screenshots/VS Code 6.PNG>)
+
+![alt text](<../Users/QHAKAZILE/Downloads/Screenshots/VS Code 7.PNG>)
 
 3. Set Up Version Control System:
    Install Git and configure it on your local machine. Create a GitHub account for hosting your repositories. Initialize a Git repository for your project and make your first commit. https://github.com
@@ -81,21 +71,28 @@ Initialize a Git Repository: mkdir my-project cd my-project git init echo "plpac
 
 Access the official website <a href="https://www.python.org/downloads/">python download</a>
 
+![alt text](<../Users/QHAKAZILE/Downloads/Screenshots/Python 1.PNG>)
+
 Select te latest version and download.
+
+![alt text](<../Users/QHAKAZILE/Downloads/Screenshots/Python 2.PNG>)
 
 When download is complete run the installer program following the instructions ensure to add python to path by checking the option.
 
 Go to IDLE, the three greater than >>> sign is called the Python command prompt, where we write our program and with a single enter key, it will give results so instantly.
 
+![alt text](<../Users/QHAKAZILE/Downloads/Screenshots/Python 3.PNG>)
 
 5. Install Package Managers:
    If applicable, install package managers like pip (Python).
 
 Check and install
 
+![alt text](../Users/QHAKAZILE/Downloads/Screenshots/PIP.PNG)
+
 Verify pip installation: pip --version.
 
-Upgrade pip (if necessary): python -m pip install --upgrade pip.
+Upgrade pip (if necessary) on the command prompt: python -m pip install --upgrade pip.
 
 6. Configure a Database (MySQL):
    Download and install MySQL database. https://dev.mysql.com/downloads/windows/installer/5.7.html
@@ -105,6 +102,18 @@ Access  the official MySQL website <a href="https://dev.mysql.com/downloads/wind
 Start download select just start my download link to proceed MySql downloading.
 
 After download locate download find file start running the installer follow the instructions to start the installation process.
+
+![alt text](<../Users/QHAKAZILE/Downloads/Screenshots/MY SQL 3.PNG>)
+
+![alt text](<../Users/QHAKAZILE/Downloads/Screenshots/MY SQL 4.PNG>)
+
+![alt text](<../Users/QHAKAZILE/Downloads/Screenshots/MY SQL 5.PNG>)
+
+![alt text](<../Users/QHAKAZILE/Downloads/Screenshots/MY SQL 6.PNG>)
+
+![alt text](<../Users/QHAKAZILE/Downloads/Screenshots/MY SQL 7.PNG>)
+
+![alt text](<../Users/QHAKAZILE/Downloads/Screenshots/MY SQL 8.PNG>)
 
 7. Set Up Development Environments and Virtualization (Optional):
    Consider using virtualization tools like Docker or virtual machines to isolate project dependencies and ensure consistent environments across different machines.
